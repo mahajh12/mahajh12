@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Maha</h1>
-<h3 align="center">A software developer, game development hobbyist, and passionate in computer science.</h3>
+<h1 align="center">Hi 👋, </h1>
+<h3 align="center">A software developer,  game development hobbyist,  and passionate in computer science.</h3>
 
 - 🔭 I’m currently working on **so_long and palette generator in unity**
 
