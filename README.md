@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, </h1>
-<h3 align="center">A software developer,  game development hobbyist,  and passionate in computer science.</h3>
+#<h3 align="center">A software developer,  game development hobbyist,  and passionate in computer science.</h3>
 
 - 🔭 I’m currently working on **so_long and palette generator in unity**
 
 - 🌱 I’m currently learning **C, Arduino and game design.**
 
-- 📫 How to reach me **mahaj.alhameli@gmail.com**
+#- 📫 How to reach me **mahaj.alhameli@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
