@@ -3,8 +3,9 @@
 </p>
 
 <p align="center">
-  <i>Maha</i>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&pause=1000&color=9167CB&center=true&vCenter=true&width=435&lines=Maha" />
 </p>
+
 
 ---
 
