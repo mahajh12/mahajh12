@@ -2,17 +2,13 @@
   <img src="https://i.pinimg.com/736x/aa/4d/4b/aa4d4b8aad0c9c042df9b07b33edb1a4.jpg" width="100%" alt="mood banner" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&pause=1000&color=9167CB&center=true&vCenter=true&width=435&lines=Maha" />
-</p>
-
 
 ---
 
 ### ✦ Interests
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&pause=1000&color=9167CB&center=true&vCenter=true&width=435&lines=video+games;cybersecurity;game+design;computer+science" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&pause=1000&color=9167CB&center=true&vCenter=true&width=435&lines=cybersecurity;game+design;computer+science" />
 </p>
 
 
