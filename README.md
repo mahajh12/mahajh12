@@ -3,14 +3,6 @@
 </p>
 
 
----
-
-### ✦ Interests
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&pause=1000&color=9167CB&center=true&vCenter=true&width=435&lines=cybersecurity;game+design;computer+science" />
-</p>
-
 
 ---
 
